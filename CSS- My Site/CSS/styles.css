@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin:50px auto 0 auto;
+  font-family: 'Cormorant Infant', serif;
+  color:#495464;
+  line-height: 2;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family:'Montserrat', sans-serif;
+  color:#495464;
+}
+
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.top-container{
+  background-color:#F3F4ED;
+  padding-top:5rem;
+  padding-bottom:7.5rem;
+}
+
+/*
+#626060;
+#495464;
+#191919;
+#141E27;
+#181D31;
+#E4F9F5;
+*/
+
+.middle-container{
+  margin-top: 2rem;
+}
+
+.bottom-container{
+  color: #66BFBF;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.raffles-logo{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.laptop-gif{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.coffee-cup{
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+.coding-img{
+  width:15%;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:18.75rem;
+}
+
+.top-cloud{
+  position:relative;
+  left:18.75rem;
+}
